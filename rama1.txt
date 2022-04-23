@@ -1,4 +1,2 @@
-archivos de rama 1
+archivos de rama 1 conflicto resuelto
 
-cambios punto 15
-añado 2 líneas
